@@ -3,7 +3,6 @@
 ## I'm a Husband, Father, Frontend Developer
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learning {React,Vue,NodeJS}
 
 ### Languages and Tools:
 
