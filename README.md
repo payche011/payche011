@@ -19,7 +19,3 @@
 <br />
 <br />
 
-<details>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=payche011)](https://git.io/streak-stats)
-
-</details>
