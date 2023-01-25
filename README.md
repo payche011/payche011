@@ -20,10 +20,6 @@
 <br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=payche011&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
-  <summary>:zap: Most used Languages</summary>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
