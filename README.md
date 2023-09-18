@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm Pavle
 
-## I'm a Husband, Father, Frontend Developer
+## Frontend Developer
 
 - 🌱 I’m currently learning everything 🤣
 
